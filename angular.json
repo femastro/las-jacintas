@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "lasjacintas"
+    }
+  },
+  "defaultProject": "lasjacintas",
+  "cli": {
+    "analytics": false
+  }
 }
